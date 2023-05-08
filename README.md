@@ -18,10 +18,8 @@ Once successfully built, run the service by using the following command:
 
 #### Prerequisites
 * AWS Account
-    * AWS Lambda
-    * IAM Role
-    * VPC EndPoint
-    * AWS EventBridge
+    * Cloud9 Environment
+    * Java 8 or higher version
 
 #### REST APIs Endpoints
 ### Create a New Employee
