@@ -36,7 +36,7 @@ Once successfully built, run the service by using the following command:
 
 
 #### Swagger End point to directly test the application with all the endpoints. 
-http://localhost:8085/orders/swagger-ui.html
+http://localhost:8086/orders/swagger-ui.html
 
 if you don't have access to the swagger via the brower you can use the linux commands.
 
