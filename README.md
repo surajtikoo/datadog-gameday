@@ -38,8 +38,8 @@ Content-Type: application/json
 | Application Properties Variables Variable | Value                               |
 |-------------------------------------------|-------------------------------------|
 | management.endpoints.web.exposure.include | health                              |
-| logging.level.org.springframework         | DEBUG                               |
-| logging.level.org.hibernate.SQL           | DEBUG                               |
+| logging.level.org.springframework         | INFO                               |
+| logging.level.org.hibernate.SQL           | INFO                               |
 | server.port                               | 8085                                |
 
 3. Make sure the AWS Lambda Function has **access to all necessary ressources** in AWS, e.g. CloudWatch
