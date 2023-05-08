@@ -46,10 +46,12 @@ Content-Type: application/json
 4. The interface is good to go!
 
 
-#### Swagger End point
+#### Swagger End point to directly test the application with all the endpoints. 
 http://localhost:8085/employees/swagger-ui.html
 
-### Commands to execute the API's using the linux/UNix Machine
+if you don't have access to the swagger via the brower you can use the linux commands.
+
+### Commands to execute the API's using the linux/Unix Machine
 
 1. Get the list of ALl employees
 ```
