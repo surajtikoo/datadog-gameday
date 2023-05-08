@@ -7,3 +7,9 @@ ____    __    ____  _______  __        ______   ______   .___  ___.  _______    
     \__/  \__/     |_______||_______| \______| \______/  |__|  |__| |_______|       |__|      \______/     |_______/ /__/     \__\  |__|     |_______/ /__/     \__\ |_______/ \______/   \______|     \______| /__/     \__\ |__|  |__| |_______||_______/ /__/     \__\  |__|                                                       `---'
 
 ```
+
+### Description for Employee Application
+There is seperate Readme files created for both the application. You can refer to both the files.
+
+1. EmployeeREADME.md
+2. OrderREADME.md
