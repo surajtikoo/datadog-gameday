@@ -8,7 +8,7 @@ ____    __    ____  _______  __        ______   ______   .___  ___.  _______    
 
 ```
 
-### Description for Employee Application
+### Description
 There is seperate Readme files created for both the application. You can refer to both the files.
 
 1. EmployeeREADME.md
