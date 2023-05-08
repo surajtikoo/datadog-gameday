@@ -85,5 +85,4 @@ This interface has various Error Codes
 4. 500 **Internal Server Error.There must be some issue while processing**
 
 ### Contact
-Developed by Suraj Tikoo
-For futher questions please contact suraj.tikoo@accenture.com
+Developed by Suraj
