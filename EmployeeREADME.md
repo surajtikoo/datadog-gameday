@@ -21,19 +21,7 @@ Once successfully built, run the service by using the following command:
     * Cloud9 Environment
     * Java 8 or higher version
 
-#### REST APIs Endpoints
-### Create a New Employee
-```
-POST /todo
-Accept: application/json
-Content-Type: application/json
-
-{
-"title" : "Spring Boot",
-"description" : "Setup spring boot application",
-}
-
-```
+####  Spring Application properties
 
 | Application Properties Variables Variable | Value                               |
 |-------------------------------------------|-------------------------------------|
@@ -42,14 +30,11 @@ Content-Type: application/json
 | logging.level.org.hibernate.SQL           | DEBUG                               |
 | server.port                               | 8085                                |
 
-3. Make sure the AWS Lambda Function has **access to all necessary ressources** in AWS, e.g. CloudWatch
-4. The interface is good to go!
-
 
 #### Swagger End point to directly test the application with all the endpoints. 
 http://localhost:8085/employees/swagger-ui.html
 
-if you don't have access to the swagger via the brower you can use the linux commands.
+if you don't have access to the swagger via the brower you can use the linux commands to see the API Endpoints which is there for each files
 
 ### Commands to execute the API's using the linux/Unix Machine
 
@@ -70,11 +55,6 @@ curl -X PUT "http://localhost:8085/employees/101" -H "accept: */*" -H "Content-T
 curl -X DELETE "http://localhost:8085/employees/101" -H "accept: */*"
 
 ```
-
-
-
-
-
 
 #### Error Code
 This interface has various Error Codes
