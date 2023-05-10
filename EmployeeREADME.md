@@ -61,8 +61,8 @@ This interface has various Error Codes
 1. 200 **Created Successfully**
 2. 201 **Content Created Successfully**
 3. 204 **Content Updated Successfully**
-3. 404 **Url not found **.
-4. 500 **Internal Server Error.There must be some issue while processing**
+4. 404 **Url not found **
+5. 500 **Internal Server Error.There must be some issue while processing**
 
 ### Contact
 Developed by Suraj
