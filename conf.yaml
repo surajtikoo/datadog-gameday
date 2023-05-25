@@ -10,6 +10,6 @@ logs:
 
   - type: file
     path: /home/ec2-user/xxxxxxxxxx/employee.log
-    service: employee-argus-service
+    service: employee-{TEAM-NAME}-service
     source: java
     sourcecategory: sourcecode
