@@ -9,7 +9,12 @@ ____    __    ____  _______  __        ______   ______   .___  ___.  _______    
 ```
 
 ### Description
-There is seperate Readme files created for both the application. You can refer to both the files.
+This is a sample project for the Datadog APM use case. How APM can be useful when we are dealing with microservices.
+There are separate Readme files created with detailed explanations for both microservices applications. You can refer to both files.
+
+Before starting you can refer to the below link to get more insights about what exactly the Datadog APM
+https://surajtikoo.medium.com/application-tracing-using-datadog-apm-c91bbf6b2537
+https://www.datadoghq.com/product/apm/
 
 1. EmployeeREADME.md
 2. OrderREADME.md
