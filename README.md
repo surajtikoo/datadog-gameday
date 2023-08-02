@@ -27,12 +27,12 @@ As part of this use-case user responsibilities is to deploy the application in t
 
 The Datadog Game Day serves several critical purposes:
 
-Real-World Incident Simulation: This event simulates real-world incidents that could potentially occur in a production environment. It provides us with valuable hands-on experience in responding to critical situations and effectively handling performance-related incidents.
-Testing Incident Response Capabilities: The game day acts as a practical platform to test and enhance our incident response capabilities. By utilizing Datadog's monitoring tools, we can identify bottlenecks, performance degradations, and potential service breakdowns, allowing us to resolve them swiftly.
-Microservices Monitoring in Action: As our application is built on microservices architecture, the game day will showcase how Datadog's monitoring capabilities adapt and effectively function in a distributed and interconnected environment.
-APM (Application Performance Monitoring) Benefits: Throughout the game day, we will experience the advantages of Datadog's APM feature. It enables us to gain deeper insights into service performance, detect breakdown points, and optimize the overall application performance.
-Plug and Play with Microservices: Datadog's seamless integration with microservices offers a plug-and-play experience. This facilitates easy adoption and monitoring of new microservices in the future without significant disruptions to our monitoring setup.
-Alerting and Insights: Datadog provides various features for generating alerts and capturing insights. During the game day, we will explore different alerting mechanisms to proactively respond to potential issues.
+* Real-World Incident Simulation: This event simulates real-world incidents that could potentially occur in a production environment. It provides us with valuable hands-on experience in responding to critical situations and effectively handling performance-related incidents.
+* Testing Incident Response Capabilities: The game day acts as a practical platform to test and enhance our incident response capabilities. By utilizing Datadog's monitoring tools, we can identify bottlenecks, performance degradations, and potential service breakdowns, allowing us to resolve them swiftly.
+* Microservices Monitoring in Action: As our application is built on microservices architecture, the game day will showcase how Datadog's monitoring capabilities adapt and effectively function in a distributed and interconnected environment.
+* APM (Application Performance Monitoring) Benefits: Throughout the game day, we will experience the advantages of Datadog's APM feature. It enables us to gain deeper insights into service performance, detect breakdown points, and optimize the overall application performance.
+* Plug and Play with Microservices: Datadog's seamless integration with microservices offers a plug-and-play experience. This facilitates easy adoption and monitoring of new microservices in the future without significant disruptions to our monitoring setup.
+* Alerting and Insights: Datadog provides various features for generating alerts and capturing insights. During the game day, we will explore different alerting mechanisms to proactively respond to potential issues.
 
 
 ### Getting Started
