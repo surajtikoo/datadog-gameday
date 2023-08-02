@@ -9,9 +9,11 @@ ____    __    ____  _______  __        ______   ______   .___  ___.  _______    
 ```
 
 ### Description
-This is a sample gameday project for the Datadog APM use case. How APM can be useful when we are dealing with microservices.
-There are separate Readme files created with detailed explanations for both microservices applications. You can refer to both files.
-This README provides an overview of Datadog Game Day and its significance. The focus of this event is to test and enhance our incident response capabilities by utilizing Datadog to monitor our microservices-based applications.
+This is a sample Java Spring Boot application that provides an excellent opportunity to explore the benefits of using Datadog APM (Application Performance Monitoring) in microservices environments.
+
+The application has already been developed for you, so the deployment process is made simple. All you need to do is follow the defined steps to deploy the application in your preferred cloud environment.
+
+By deploying and using this application with Datadog APM, you can gain valuable insights into the performance and behavior of your microservices, allowing for better optimization and monitoring in your cloud infrastructure. Happy exploring!
 
 #### Scenario
 
@@ -51,12 +53,12 @@ Use Datadog's APM feature to gain insights into service breakdowns and optimize 
 
 Before starting the game, ensure the following prerequisites are met:
 
-User should have access to an AWS Account (Free tier) and be familiar with using a cloud9 environment via AWS.
-Java version should be 1.8 or above.
-After the game day, it is advised to delete the resources created during the event.
-Outbound connections to the Datadog endpoint (https://app.datadoghq.com/) should be allowed.
-Users will be provided with Datadog access, including the endpoint and API key for a new Datadog account during the game.
-Test applications will be provided during the game for use.
+* User should have access to an AWS Account (Free tier) and be familiar with using a cloud9 environment via AWS.
+* Java version should be 1.8 or above.
+* After the game day, it is advised to delete the resources created during the event.
+* Outbound connections to the Datadog endpoint (https://app.datadoghq.com/) should be allowed.
+* Users will be provided with Datadog access, including the endpoint and API key for a new Datadog account during the game.
+* Test applications will be provided during the game for use.
 
 
 ### Three Difficulty Levels in Datadog Game
@@ -72,6 +74,7 @@ The Datadog Game Day is an exciting opportunity for learning and improving our i
 
 Happy monitoring and troubleshooting!
 
+## Note:
 Before starting you can refer to the below link to get more insights about what exactly the Datadog APM
 https://surajtikoo.medium.com/application-tracing-using-datadog-apm-c91bbf6b2537
 https://www.datadoghq.com/product/apm/
