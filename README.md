@@ -40,10 +40,10 @@ The Datadog Game Day serves several critical purposes:
 
 To perform this usecase, follow these steps:
 
-Refer to the EmployeeREADME.md and OrderREADME.md files for detailed explanations of both microservices applications. These files contain essential information about the architecture, endpoints, and functionality of the services.
-Install the Datadog agent on your test environment. This agent will collect metrics, traces, and logs, enabling comprehensive monitoring of your microservices.
-Familiarize yourself with the list of requirements for each microservice at three levels of difficulty: easy, normal, and hard. These requirements will guide us in setting up and configuring the monitoring effectively.
-Monitor its performance using Datadog and ensure smooth communication and flow of requests between the Employee and Order microservices.
+* Refer to the EmployeeREADME.md and OrderREADME.md files for detailed explanations of both microservices applications. These files contain essential information about the architecture, endpoints, and functionality of the services.
+* Install the Datadog agent on your test environment. This agent will collect metrics, traces, and logs, enabling comprehensive monitoring of your microservices.
+* Familiarize yourself with the list of requirements for each microservice at three levels of difficulty: easy, normal, and hard. These requirements will guide us in setting up and configuring the monitoring effectively.
+* Monitor its performance using Datadog and ensure smooth communication and flow of requests between the Employee and Order microservices.
 Use Datadog's APM feature to gain insights into service breakdowns and optimize the application's performance. Set up alerts to detect any issues promptly and respond with efficiency.
 
 
