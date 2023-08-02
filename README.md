@@ -65,9 +65,9 @@ Before starting the game, ensure the following prerequisites are met:
 
 To complete the Datadog Game, you need to complete all three levels. Each level has specific tasks:
 
-* **Easy Level:** Install the Datadog agent on the Host.
-* **Medium Level**: Download the Jar files for both applications from the public Git/Bitbucket Repo (https://github.com/surajtikoo/datadog-gameday.git).
-* **Hard Level**: Forward the application logs to Datadog, ensuring no sensitive information is forwarded. Verify the logs and create an alert of your own choice based on error/success scenarios to notify teams.
+* Easy Level: Install the Datadog agent on the Host.
+* Medium Level: Download the Jar files for both applications from the public Git/Bitbucket Repo (https://github.com/surajtikoo/datadog-gameday.git).
+* Hard Level: Forward the application logs to Datadog, ensuring no sensitive information is forwarded. Verify the logs and create an alert of your own choice based on error/success scenarios to notify teams.
 
 
 The Datadog Game Day is an exciting opportunity for learning and improving our incident response skills. Let's embrace the challenge and make the most out of this simulated real-world experience.
